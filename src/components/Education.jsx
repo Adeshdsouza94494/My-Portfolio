@@ -1,12 +1,13 @@
 import React from "react";
-import experience from "./data/education.json";
+import education from "./data/education.json";
+
 
 const Experience = () => {
   return (
     <>
-      <div className="container ex" id="experience">
+      <div className="container ex" id="education">
         <h1>Education</h1>
-        {experience.map((data) => {
+        {education.map((data) => {
           return (
             <>
               <div
