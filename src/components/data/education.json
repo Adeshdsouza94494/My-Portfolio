@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "role": "Bachelor of Engineering",
+      "startDate": "2018 -",
+      "endDate": "2022",
+      "location": "  Mangalore,India ",
+      "experiences": [
+        "College: sahyadri college of engineering and management"
+      ],
+      "imageSrc": "company/sahyadri.jpg"
+    },
+    {
+      "id": 2,
+      "role": "Pre - University College",
+      "startDate": "2016 -",
+      "endDate": "2018",
+      "location": "  Mangalore, India ",
+      "experiences": [
+        "College : Carmel Composite PU College Modnakap"
+      ],
+      "imageSrc": "company/carmel.png"
+    },
+    {
+      "id":3,
+      "role": "Secondary School Certificate",
+      "startDate": "2015 -",
+      "endDate": "2016",
+      "location": "  Mangalore, India ",
+      "experiences": [
+        "School: St. Antony English Medium School"
+      ],
+      "imageSrc": "company/fermai.jpeg"
+    }
+
+   
+  ]
+  

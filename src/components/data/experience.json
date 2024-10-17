@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Software Developer Intern",
+    "organisation": "PRATIAN Technologies (India) Private Limited",
+    "startDate": "Aug, 2023 -",
+    "endDate": "Feb, 2024",
+    "location": "Bangalore,India",
+    "experiences": [
+      "Worked with frameworks such as React.js, Node.js.",
+      "Worked with Debugging and Testing and Database "
+    ],
+    "imageSrc": "company/download.png"
+  },
+  {
+    "id": 2,
+    "role": "Embedded system design Internship",
+    "organisation": "VITVARA technologies",
+    "startDate": "Aug, 2021 -",
+    "endDate": "sep, 2021",
+    "location": "Mangalore, India",
+    "experiences": [
+      "Worked on Circuit Design and PCB Layout",
+      "Worked on Data Collection and Cloud Integration"
+    ],
+    "imageSrc": "company/vitvara.jpeg"
+  }
+ 
+]
