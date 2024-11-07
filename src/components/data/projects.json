@@ -30,6 +30,14 @@
     "description": "This is a portfolio made with  React js.",
     "demo": "https://adeshdsouza94494.github.io/My-Portfolio/",
     "source": "https://github.com/Adeshdsouza94494/My-Portfolio"
+  },
+  {
+    "key": 5,
+    "title": "Javascript Todo-List",
+    "imageSrc": "https://www.shutterstock.com/image-vector/do-list-check-box-on-260nw-147412733.jpg",
+    "description": "This is a project made with complete Javascript.",
+    "demo": "https://adeshdsouza94494.github.io/Todo-List/",
+    "source": "https://github.com/Adeshdsouza94494/Todo-List"
   }
   
 ]
